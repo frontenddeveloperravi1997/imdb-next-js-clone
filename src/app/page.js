@@ -1,5 +1,5 @@
 import Results from "@/components/Results";
-import { notFound } from "next/navigation";
+// import { notFound } from "next/navigation";
 
 const API_KEY = process.env.API_KEY;
 
